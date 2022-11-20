@@ -84,7 +84,7 @@ See the [open issues](https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni
     2-Screenshots of homework 2
   <table> 
        <tr>
-        <td><img src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/gif/Assignement_02gif.gif" width="1000" height="500"></td>
+        <td><img src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/gif/Assignement_02gif.gif" width="100%" height="auto"></td>
     </tr>
    </table>
 
