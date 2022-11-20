@@ -83,10 +83,14 @@ See the [open issues](https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni
         <td>  <img align="left" src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/ss/AlierenAdrianVRhw1ss1.png?raw=true" alt="AlierenAdrianVRhw1" width ="100%" height = "auto" /></p></td>
         <td>  <img align="left" src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/ss/AlierenAdrianVRhw1ss2.png?raw=true" alt="AlierenAdrianVRhw1" width ="100%" height = "auto" /></p></td>
     </tr>
+   </table>
+    2-Screenshots of homework 2
+  <table> 
        <tr>
-        <td><img src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/gif/Assignement_02gif.gif" width="100" height="100"></td>
+        <td><img src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/blob/main/images/gif/Assignement_02gif.gif" width="1000" height="500"></td>
     </tr>
    </table>
+
 <!-- LICENSE -->
 ## 📝 License
 
