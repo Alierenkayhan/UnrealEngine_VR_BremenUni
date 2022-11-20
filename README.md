@@ -20,7 +20,7 @@ UnrealEngine_VR_BremenUni
 ![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/UnrealEngine_VR_BremenUni/goto)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/UnrealEngine_VR_BremenUni)
-![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/UnrealEngine_VR_Bre#menUni_HW1)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/UnrealEngine_VR_BremenUni)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/UnrealEngine_VR_BremenUni)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/UnrealEngine_VR_BremenUni)
 ![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/UnrealEngine_VR_BremenUni) 
@@ -28,9 +28,6 @@ UnrealEngine_VR_BremenUni
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/UnrealEngine_VR_BremenUni/total)
  <a href="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" /></a>
-<a href="https://UnrealEngine_VR_BremenUni">
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fatlye)
-</a> 
 </div>
 
 <div align="center">
